@@ -18,3 +18,4 @@ A secure, private documentation portal for Playful Minds Family Day Care Service
 - **Private Repo**: This code is strictly confidential.
 - **Australian Hosted**: Data is stored in the Sydney region.
 - **Encrypted**: Passwords are hashed using Bcrypt.
+- 
